@@ -11,6 +11,9 @@ import java.awt.event.ActionListener;
 class ParametrWindow extends JFrame implements ActionListener {
 
 
+
+    // nowy branch
+
     private final JMenuItem MInfo, MExit;
     private final JTextField TParam_a;
     private final JTextField TParam_b;
