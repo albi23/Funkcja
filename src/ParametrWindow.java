@@ -9,6 +9,15 @@ import java.awt.event.ActionListener;
 class ParametrWindow extends JFrame implements ActionListener {
 
 
+    //NIECH
+    //BEDZOE
+    //POCHWALONY
+    //JEZUS
+    //CHRYSTUS
+    //NA WIEKI
+    //WIEKÓW
+    //AMEN
+
     private final JMenuItem MInfo, MExit;
     private final JTextField TParam_a;
     private final JTextField TParam_b;
