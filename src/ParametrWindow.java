@@ -6,6 +6,8 @@ import java.awt.event.ActionListener;
 /**
  * Klasa, w której zajmuję się obsługą okna do którego wprowadzamy nasze dane.
  */
+ // cokolwiek// cokolwiek
+ // cokolwiek// cokolwiek
 class ParametrWindow extends JFrame implements ActionListener {
 
 
