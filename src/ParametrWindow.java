@@ -12,7 +12,7 @@ class ParametrWindow extends JFrame implements ActionListener {
 
 
 
-    // nowy branch
+    // nowy branch2w2w
 
     private final JMenuItem MInfo, MExit;
     private final JTextField TParam_a;
